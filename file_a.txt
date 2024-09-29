@@ -1,1 +1,1 @@
-line_that_will_conflict_later_now_on_dev
+line_that_conflicts NOW on main.
